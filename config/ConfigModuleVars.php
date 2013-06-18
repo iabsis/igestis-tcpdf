@@ -7,7 +7,7 @@
 namespace Igestis\Modules\Tcpdf;
 
 define("IGESTIS_TCPDF_VERSION", "0.1-1");
-define("IGESTIS_SAMBA_MODULE_NAME", "Tcpdf");
+define("IGESTIS_TCPDF_MODULE_NAME", "Tcpdf");
 define("IGESTIS_TCPDF_TEXTDOMAIN", IGESTIS_TCPDF_MODULE_NAME .  IGESTIS_TCPDF_VERSION);
 /**
  * Configuration of the module
